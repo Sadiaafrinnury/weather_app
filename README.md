@@ -4,8 +4,8 @@
 This weather app provides users with current weather conditions and forecasts for different locations, enhanced with a user-friendly interface and Google Maps integration. The app fetches weather data from a reliable API and displays it alongside an interactive map powered by Google Maps.
 
 # Weather app screensort
-https://github.com/Sadiaafrinnury/Screensort/blob/main/Weather%201.jpg <br>
-https://github.com/Sadiaafrinnury/Screensort/blob/main/Weather%202.jpg
+ <img src="https://github.com/Sadiaafrinnury/Screensort/blob/main/Weather%201.jpg" alt="" width="300" height="600">
+ <img src="https://github.com/Sadiaafrinnury/Screensort/blob/main/Weather%202.jpg" alt="" width="300" height="600">
 
 # Features
 •	Current Weather: Real-time weather conditions for a specific location, including temperature, humidity, wind speed, 
